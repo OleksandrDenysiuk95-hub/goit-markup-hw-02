@@ -76,6 +76,7 @@ a {
   width: 169px;
   height: 56px;
   background-color: #4d5ae5;
+  cursor: pointer;
 }
 
 .order-service-btn:hover,
